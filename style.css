@@ -1,0 +1,23 @@
+body
+{
+    background:teal;
+    background-repeat: no-repeat;
+    border: 10px solid lime;
+    border-style: double;
+    border-top-color:red ;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-right-color: yellow;
+    border-left-color: yellow;
+    border-bottom-color: violet;
+}
+h1
+{
+    text-align: center;
+    color:linear-gradient;
+}
+#dede
+{
+    margin-left: 550px;
+    margin-right: 209px;
+}
